@@ -10,6 +10,10 @@ A modern and minimalistic e-commerce app built with Flutter. This app features a
 - **Dark Mode & Light Mode**: Toggle between dark and light themes to suit your preferences.
 - **Clean & Modern Design**: A user-friendly interface with a focus on simplicity and aesthetics.
 
+### Download Links
+
+- **Android APK**: [Download APK](https://github.com/SubhajitDolai/Ecommerce-app/releases/tag/v1.0.0-beta)
+
 ## Screenshots
 
 ### Dark Mode

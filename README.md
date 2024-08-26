@@ -12,16 +12,6 @@ A modern and minimalistic e-commerce app built with Flutter. This app features a
 
 ## Screenshots
 
-### Light Mode
-
-<div style="display: flex; overflow-x: auto; gap: 10px; white-space: nowrap;">
-  <img src="assets/screenshots/intro_page_light.png" width="300" alt="Intro Page Light Mode" />
-  <img src="assets/screenshots/shop_page_light.png" width="300" alt="Shop Page Light Mode" />
-  <img src="assets/screenshots/cart_page_light.png" width="300" alt="Cart Page Light Mode" />
-  <img src="assets/screenshots/settings_light.png" width="300" alt="Settings Page Light Mode" />
-  <img src="assets/screenshots/drawer_light.png" width="300" alt="Drawer Light Mode" />
-</div>
-
 ### Dark Mode
 
 <div style="display: flex; overflow-x: auto; gap: 10px; white-space: nowrap;">
@@ -30,6 +20,16 @@ A modern and minimalistic e-commerce app built with Flutter. This app features a
   <img src="assets/screenshots/cart_page_dark.png" width="300" alt="Cart Page Dark Mode" />
   <img src="assets/screenshots/settings_dark.png" width="300" alt="Settings Page Dark Mode" />
   <img src="assets/screenshots/drawer_dark.png" width="300" alt="Drawer Dark Mode" />
+</div>
+
+### Light Mode
+
+<div style="display: flex; overflow-x: auto; gap: 10px; white-space: nowrap;">
+  <img src="assets/screenshots/intro_page_light.png" width="300" alt="Intro Page Light Mode" />
+  <img src="assets/screenshots/shop_page_light.png" width="300" alt="Shop Page Light Mode" />
+  <img src="assets/screenshots/cart_page_light.png" width="300" alt="Cart Page Light Mode" />
+  <img src="assets/screenshots/settings_light.png" width="300" alt="Settings Page Light Mode" />
+  <img src="assets/screenshots/drawer_light.png" width="300" alt="Drawer Light Mode" />
 </div>
 
 ## Dependencies
